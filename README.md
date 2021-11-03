@@ -13,7 +13,7 @@
 1. Зарегистрироваться на сайте github.com
 2. Установить на компьютере программу Git
 3. Форкнуть данный репозиторий в свой аккаунт!
-[image](https://user-images.githubusercontent.com/92590831/140193622-fb56bfbd-8712-47cf-b997-a8b7b1adc983.png)
+![image](https://user-images.githubusercontent.com/92590831/140193622-fb56bfbd-8712-47cf-b997-a8b7b1adc983.png)
 4. Склонировать созданный удаленный репозиторий в директорию ~/git/test
 5. На локальной машине пишем скрипт ~/git/test/backup.sh, с произвольным содержанием 
 ![image](https://user-images.githubusercontent.com/92590831/140193357-80d50d84-ed8b-461e-a2b8-9a722ebca95c.png)
@@ -22,13 +22,21 @@
 
 7. Обновляем удаленный репозиторий репозиторий (делаем пуш) ![image](https://user-images.githubusercontent.com/92590831/140193968-5ae1d371-3b81-4d16-86ff-32d41727421c.png)
 
-8. Через текстовый редактор добавить любую новую строку с комментарием
-9. Сделать коммит
-10. Вности синтаксическую ошибку в скрипт
-11. Сделать коммит ошибочного скрипта
-12. Откатываем до последней рабочей версии
-13. Просмотреть историю коммитов
-15. Добавить несколько коммитов произвольного содержимого
+8. Через текстовый редактор добавить любую новую строку с комментарием ![image](https://user-images.githubusercontent.com/92590831/140194122-21e85b30-1874-4f82-bcfe-2aa61c0ab203.png)
+
+9. Сделать коммит ![image](https://user-images.githubusercontent.com/92590831/140194212-e3e60825-a4b5-478e-a778-040219f02bc7.png)
+
+10. Вности синтаксическую ошибку в скрипт ![image](https://user-images.githubusercontent.com/92590831/140194343-5ce8dc94-0b22-41ff-91e3-df6718d839ec.png)
+
+11. Сделать коммит ошибочного скрипта ![image](https://user-images.githubusercontent.com/92590831/140194321-7b4df0f8-e74a-434b-9e1d-285d52d1ab2f.png)
+
+12. Откатываем до последней рабочей версии ![image](https://user-images.githubusercontent.com/92590831/140194538-eacafed6-e595-4152-8808-3661725c3b39.png)
+![image](https://user-images.githubusercontent.com/92590831/140194884-7e51c9f7-b846-4889-bc9c-e939ba7d176b.png)
+
+13. Просмотреть историю коммитов ![image](https://user-images.githubusercontent.com/92590831/140194903-3756e318-bdfe-43bc-b1a0-dc953ee6dd9e.png)
+
+15. Добавить несколько коммитов произвольного содержимого ![image](https://user-images.githubusercontent.com/92590831/140194978-31360b1a-5ffd-462f-afa2-709ad5741d26.png)
+
 16. Создать пулл реквест в данный репозиторий
 
 
