@@ -19,8 +19,9 @@
 ![image](https://user-images.githubusercontent.com/92590831/140193357-80d50d84-ed8b-461e-a2b8-9a722ebca95c.png)
 ![image](https://user-images.githubusercontent.com/92590831/140193376-abf3942e-a91e-4fd0-800e-2ecadb5f9a0a.png)
 6. Фиксируем скрипт в репозитории (делаем коммит)
-![image](https://user-images.githubusercontent.com/92590831/140193558-2b4f8aae-02ca-4434-8832-caaf0791571a.png)
+![image](https://user-images.githubusercontent.com/92590831/140193763-a8ab9bc5-ac55-40f8-ab20-32778f27f73a.png)
 7. Обновляем удаленный репозиторий репозиторий (делаем пуш)
+![image](https://user-images.githubusercontent.com/92590831/140193776-144dd2de-14eb-4fca-8ec7-6eb85e94829f.png)
 8. Через текстовый редактор добавить любую новую строку с комментарием
 9. Сделать коммит
 10. Вности синтаксическую ошибку в скрипт
