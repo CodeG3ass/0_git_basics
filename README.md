@@ -12,11 +12,14 @@
 
 1. Зарегистрироваться на сайте github.com
 2. Установить на компьютере программу Git
-3. Форкнуть данный репозиторий в свой аккаунт
+3. Форкнуть данный репозиторий в свой аккаунт!
+[image](https://user-images.githubusercontent.com/92590831/140193622-fb56bfbd-8712-47cf-b997-a8b7b1adc983.png)
 4. Склонировать созданный удаленный репозиторий в директорию ~/git/test
-5. На локальной машине пишем скрипт ~/git/test/backup.sh, с произвольным содержанием ![image](https://user-images.githubusercontent.com/92590831/140193357-80d50d84-ed8b-461e-a2b8-9a722ebca95c.png)
+5. На локальной машине пишем скрипт ~/git/test/backup.sh, с произвольным содержанием 
+![image](https://user-images.githubusercontent.com/92590831/140193357-80d50d84-ed8b-461e-a2b8-9a722ebca95c.png)
 ![image](https://user-images.githubusercontent.com/92590831/140193376-abf3942e-a91e-4fd0-800e-2ecadb5f9a0a.png)
-6. Фиксируем скрипт в репозитории (делаем коммит)![image](https://user-images.githubusercontent.com/92590831/140193558-2b4f8aae-02ca-4434-8832-caaf0791571a.png)
+6. Фиксируем скрипт в репозитории (делаем коммит)
+![image](https://user-images.githubusercontent.com/92590831/140193558-2b4f8aae-02ca-4434-8832-caaf0791571a.png)
 7. Обновляем удаленный репозиторий репозиторий (делаем пуш)
 8. Через текстовый редактор добавить любую новую строку с комментарием
 9. Сделать коммит
